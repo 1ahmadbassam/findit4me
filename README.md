@@ -1,2 +1,2 @@
-# findit4me
-A Python indexer for items around you.
+# FindIt4Me
+A Python shop manager and item database frontend indexer created as a presentation project for the LAU Virtual Python Summer Camps of 2021. This app was basically created to address a huge problem facing citizens in an economic crysis: finding the best price for a specific asset across a multitude of shops. The idea was for shopowners to sign up their shop and add all items they are offering for sale, and then clients would search for a specific asset in mind and would have the ability to compare prices between offerings. It also includes an SQLite adapter for Python (see ```dbhelper.py```).
